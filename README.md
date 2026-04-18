@@ -49,13 +49,12 @@ This project demonstrates advanced automation engineering by combining:
 │   ├── hkrt_content_scraper_llm.robot  # Integrated scraping + analysis
 │   └── hkrt_scraper.robot              # Basic scraper variant
 ├── resources/              # Python utilities and libraries
-│   ├── deepseek_analyzer.py           # AI analysis module
-│   └── example_usage.py               # Usage demonstration
+│   └── deepseek_analyzer.py           # AI analysis module
 ├── results/                # Scraped data and analysis outputs
 ├── logs/                   # Test execution logs and reports
 ├── drivers/                # WebDriver binaries
 ├── requirements.txt        # Python dependencies
-└── conda_env.bat          # Environment activation script
+└── simple run.txt          # Sample commands for triggering the bot
 ```
 
 ## Quick Start
