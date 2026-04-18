@@ -1,0 +1,2 @@
+conda activate robotframework
+robot --outputdir logs --timestampoutputs scripts/hkrt_content_scraper_llm.robot
